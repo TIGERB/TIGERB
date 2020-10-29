@@ -11,3 +11,5 @@
 - 📚电商系统系列 <http://skrshop.tech/>
 
 > ✨ My blog: <http://tigerb.cn/> ✨
+
+![TIGERB's github stats](https://github-readme-stats.vercel.app/api/?username=tigerb&show_icons=true&title_color=336699&icon_color=99CCCC&text_color=666&bg_color=fff)
