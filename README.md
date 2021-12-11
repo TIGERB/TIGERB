@@ -10,6 +10,7 @@
 - 📚Go设计模式实战系列 <http://tigerb.cn/go/#/patterns/>
 - 📚Go语言轻松进阶系列 <http://tigerb.cn/go/#/kernal/>
 - 📚电商系统系列 <http://skrshop.tech/>
+- 📚PHP到Go速转手册 <http://tigerb.cn/php2go/>
 
 > ✨ My blog: <http://tigerb.cn/> ✨
 
