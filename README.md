@@ -1,7 +1,7 @@
 ## TryInG to be the pERson you want to Be. 👋
 
 <p align="center">
-    <img style="vertical-align:middle" width="25%" src="http://cdn.tigerb.cn/wechat-blog-qrcode.jpg?imageMogr2/thumbnail/260x260!/format/webp/blur/1x0/quality/90|imageslim">
+    <img style="vertical-align:middle" width="25%" src="http://blog-1251019962.cos.ap-beijing.myqcloud.com/qiniu_img_2022/wechat-blog-qrcode.jpg?imageMogr2/thumbnail/260x260!/format/webp/blur/1x0/quality/90|imageslim">
     
 <p>
 
