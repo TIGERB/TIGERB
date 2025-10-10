@@ -7,10 +7,10 @@
 
 ## My blog article recommend ⚡️:
 
-- 📚Go设计模式实战系列 <https://tigerb.cn/go/#/patterns/>
-- 📚Go语言轻松进阶系列 <https://tigerb.cn/go/#/kernal/>
-- 📚电商系统系列 <https://skrshop.tigerb.cn/>
-- 📚PHP到Go速转手册 <https://tigerb.cn/php2go/>
+- 📚《Go语言轻松进阶：从入门、实战到内核揭秘》 <https://tigerb.cn/go/>
+- 📚《Go设计模式实战》 <https://tigerb.cn/go/#/patterns/>
+- 📚《电商设计手册》 <https://skrshop.tigerb.cn/>
+- 📚《PHP到Go速转手册》 <https://tigerb.cn/php2go/>
 
 > ✨ My blog: <https://tigerb.cn/> ✨
 
